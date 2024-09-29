@@ -3,7 +3,7 @@
 Plugin inicial del plugin de Wompi
 
 ## Documentación
-[Wompi Colombia WooCommerce Documentation](https://docs.wompi.co/docs/colombia/woocommerce-wordpress-plugin/)
+[Wompi Colombia WooCommerce Documentation](https://docs.wompi.co/docs /colombia/woocommerce-wordpress-plugin/)
 
 ## Colaboraciones
 
